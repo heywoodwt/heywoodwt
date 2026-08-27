@@ -38,6 +38,7 @@ coursework.
 
 | Project | What it is |
 |---|---|
+| [kalshi-mm](https://github.com/heywoodwt/kalshi-mm) | Rust market-making bot for Kalshi prediction markets. A line-for-line port of an earlier Python system, with golden-fixture parity tests proving the two agree on fees, observations, and policy output. 7k lines, 136 tests, CI, containerized release. |
 | [job_alert_bot](https://github.com/heywoodwt/job_alert_bot) | Serverless AWS pipeline that scrapes job listings, deduplicates against DynamoDB, and alerts via SNS. SAM IaC, 31 tests under `moto`. |
 | [Cville_Parking_Ticket_EDA](https://github.com/heywoodwt/Cville_Parking_Ticket_EDA) | Geocoding and interactive mapping of Charlottesville parking enforcement data. |
 | [PGB_FantasyFootball](https://github.com/heywoodwt/PGB_FantasyFootball) | Season-long analysis off the ESPN Fantasy API; reconstructs PPR scoring from raw stat lines. |
