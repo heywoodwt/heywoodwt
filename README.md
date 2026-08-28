@@ -1,7 +1,7 @@
 ## Heywood Williams-Tracy
 
-M.S. in Data Science, University of Virginia (2026). B.A. in Public Policy & Data
-Science, UNC-Chapel Hill (2023).
+M.S. in Data Science, University of Virginia School of Data Science (2026). B.A. in Public Policy & Data
+Science, UNC Chapel Hill (2023).
 
 **Instructional Assistant for DS 2002: Data Science Systems** at UVA — the course
 covering the engineering layer beneath data science work: relational and NoSQL data
