@@ -44,7 +44,6 @@ coursework.
 | [PGB_FantasyFootball](https://github.com/heywoodwt/PGB_FantasyFootball) | Season-long analysis off the ESPN Fantasy API; reconstructs PPR scoring from raw stat lines. |
 | [Flood_Analysis_PLCY_698](https://github.com/heywoodwt/Flood_Analysis_PLCY_698) | County-level flood risk and disaster-relief funding analysis in R, for the Environmental Defense Fund. |
 | [ds_5030_work](https://github.com/heywoodwt/ds_5030_work) | Graduate statistical learning coursework — regression, classification, resampling, regularization. |
-| [kalshi-mm](https://github.com/heywoodwt/kalshi-mm) | Kalshi market making that uses machine learning in a reinforcement learning model to place real trades via the api. |
 
 Some of my strongest work like my MSDS capstone is still in
 private repositories. Happy to walk through any of it.
