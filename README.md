@@ -31,6 +31,9 @@ coursework.
 
 **Applied statistics and ML.** Regression and statistical learning, deep learning
 (CNNs, sequence models), computer vision, and geospatial analysis in Python and R.
+My MSDS capstone applies this to fund performance — Fama-French factor attribution,
+time-varying-parameter Kalman filters, macro-regime models, and Brinson-Fachler
+decomposition, on top of a point-in-time data-engineering pipeline.
 
 ---
 
@@ -38,6 +41,7 @@ coursework.
 
 | Project | What it is |
 |---|---|
+| [intl-equity-fund-capstone](https://github.com/heywoodwt/intl-equity-fund-capstone) | M.S. Data Science capstone — explaining and predicting an actively-managed international (developed ex-US) equity fund's performance. A point-in-time data-engineering pipeline (FRED macro, Ken French factors, WRDS/FactSet fundamentals), time-varying-parameter Kalman-filter factor attribution and Kalman macro-regime models, Brinson-Fachler performance attribution, and a Streamlit quant tear-sheet dashboard. Anonymized for public release; ~140 tests. |
 | [kalshi-mm](https://github.com/heywoodwt/kalshi-mm) | Rust market-making bot for Kalshi prediction markets. A line-for-line port of an earlier Python system, with golden-fixture parity tests proving the two agree on fees, observations, and policy output. 7k lines, 136 tests, CI, containerized release. |
 | [job_alert_bot](https://github.com/heywoodwt/job_alert_bot) | Serverless AWS pipeline that scrapes job listings, deduplicates against DynamoDB, and alerts via SNS. SAM IaC, 31 tests under `moto`. |
 | [Cville_Parking_Ticket_EDA](https://github.com/heywoodwt/Cville_Parking_Ticket_EDA) | Geocoding and interactive mapping of Charlottesville parking enforcement data. |
@@ -45,8 +49,8 @@ coursework.
 | [Flood_Analysis_PLCY_698](https://github.com/heywoodwt/Flood_Analysis_PLCY_698) | County-level flood risk and disaster-relief funding analysis in R, for the Environmental Defense Fund. |
 | [ds_5030_work](https://github.com/heywoodwt/ds_5030_work) | Graduate statistical learning coursework — regression, classification, resampling, regularization. |
 
-Some of my strongest work like my MSDS capstone is still in
-private repositories. Happy to walk through any of it.
+Some of my work — including the group modeling repo behind the capstone — is
+still in private repositories. Happy to walk through any of it.
 
 ---
 
