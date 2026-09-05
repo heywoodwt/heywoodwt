@@ -11,8 +11,8 @@ them. Explaining why a broken pipeline is broken, to someone who has not yet lea
 read the error, turned out to be the fastest way to get rigorous about my own
 fundamentals.
 
-Based in Charlottesville, VA. Founder of [warppool](https://warppool.tech).
-**Open to data science and ML engineering roles.**
+Based in Charlotte, NC. Founder of [Warppool](https://warppool.tech).
+**Open to data science, data engineering and ML engineering roles.**
 
 ---
 
@@ -55,7 +55,7 @@ Some of my work including trading work is still in private repositories. Happy t
 
 ### Tools
 
-`Python` · `Rust` · `R` · `SQL` · `pandas` · `scikit-learn` · `PyTorch` · `AWS (Lambda, DynamoDB, SNS, Kinesis, SAM)` · `Docker` · `Kubernetes` · `Terraform` · `Git`
+`Python` · `Rust` · `R` · `SQL` · `pandas` · `scikit-learn` · `PyTorch` · `AWS (Lambda, DynamoDB, SNS, Kinesis, SAM)` · `Docker` · `Kubernetes` · `Terraform` · `Git`...
 
 ---
 
