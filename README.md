@@ -49,8 +49,7 @@ decomposition, on top of a point-in-time data-engineering pipeline.
 | [Flood_Analysis_PLCY_698](https://github.com/heywoodwt/Flood_Analysis_PLCY_698) | County-level flood risk and disaster-relief funding analysis in R, for the Environmental Defense Fund. |
 | [ds_5030_work](https://github.com/heywoodwt/ds_5030_work) | Graduate statistical learning coursework — regression, classification, resampling, regularization. |
 
-Some of my work — including the group modeling repo behind the capstone — is
-still in private repositories. Happy to walk through any of it.
+Some of my work including trading work is still in private repositories. Happy to walk through any of it.
 
 ---
 
