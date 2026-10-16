@@ -11,7 +11,6 @@ them. Explaining why a broken pipeline is broken, to someone who has not yet lea
 read the error, turned out to be the fastest way to get rigorous about my own
 fundamentals.
 
-Based in Charlotte, NC. Founder of [Warppool](https://warppool.tech).
 **Open to data science, data engineering and ML engineering roles.**
 
 ---
