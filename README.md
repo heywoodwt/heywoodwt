@@ -41,6 +41,7 @@ decomposition, on top of a point-in-time data-engineering pipeline.
 | Project | What it is |
 |---|---|
 | [intl-equity-fund-capstone](https://github.com/heywoodwt/intl-equity-fund-capstone) | M.S. Data Science capstone — explaining and predicting an actively-managed international (developed ex-US) equity fund's performance. A point-in-time data-engineering pipeline (FRED macro, Ken French factors, WRDS/FactSet fundamentals), time-varying-parameter Kalman-filter factor attribution and Kalman macro-regime models, Brinson-Fachler performance attribution, and a Streamlit quant tear-sheet dashboard. Anonymized for public release; ~140 tests. |
+| [pmr-report-agent](https://github.com/heywoodwt/pmr-report-agent) | Generates a 13-page quarterly real-estate portfolio report from a drop folder of Excel workbooks, PDFs and a slide deck. Code computes, ranks and foots every figure; Claude only reads chart images and drafts prose, and code checks each sentence against its source. Every printed number (608 per report) carries a cell- or page-level locator in a manifest, and a reviewer must approve before the final PDF is written. Byte-identical reruns, 140 tests, Flask review app, Azure infrastructure in OpenTofu. Synthetic data. |
 | [kalshi-mm](https://github.com/heywoodwt/kalshi-mm) | Rust market-making bot for Kalshi prediction markets. A line-for-line port of an earlier Python system, with golden-fixture parity tests proving the two agree on fees, observations, and policy output. 7k lines, 136 tests, CI, containerized release. |
 | [job_alert_bot](https://github.com/heywoodwt/job_alert_bot) | Serverless AWS pipeline that scrapes job listings, deduplicates against DynamoDB, and alerts via SNS. SAM IaC, 31 tests under `moto`. |
 | [resume_link_tracker](https://github.com/heywoodwt/resume_link_tracker) | Generates a resume for each application with company-specific short links, then logs every recruiter click through API Gateway, Lambda, and DynamoDB with SNS email alerts. A Chalice API serves click analytics and matplotlib plots from S3. |
@@ -55,7 +56,7 @@ Some of my work including trading work is still in private repositories. Happy t
 
 ### Tools
 
-`Python` · `Rust` · `R` · `SQL` · `pandas` · `scikit-learn` · `PyTorch` · `AWS (Lambda, DynamoDB, SNS, Kinesis, SAM)` · `Docker` · `Kubernetes` · `Terraform` · `Git`...
+`Python` · `Rust` · `R` · `SQL` · `pandas` · `scikit-learn` · `PyTorch` · `AWS (Lambda, DynamoDB, SNS, Kinesis, SAM)` · `Azure` · `Docker` · `Kubernetes` · `Terraform / OpenTofu` · `Claude API` · `Git`...
 
 ---
 
